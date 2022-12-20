@@ -1,6 +1,7 @@
 name: FOSSA GitHub Action
 run-name: ${{ github.actor }} is testing out FOSSA repo scan 🚀
-on: [push]jobs:
+on: [push]
+jobs:
   fossa-scan:
     runs-on: ubuntu-latest
     steps:
