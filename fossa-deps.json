@@ -1,0 +1,9 @@
+{
+  "vendored-dependencies": [
+    {
+      "name": "Django",
+      "path": "vendor/Django-3.4.16.zip",
+      "version": "3.4.16"
+    }
+  ]
+}
